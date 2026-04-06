@@ -1,4 +1,4 @@
-![Mi Foto](foto.jpg)
+![Mi Foto](foto.jpeg)
 
 ### Información Personal
 - **Nombre completo:** Mariano Javier Nakazato

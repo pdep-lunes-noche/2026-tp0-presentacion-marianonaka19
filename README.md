@@ -1,4 +1,3 @@
-![Mi Foto](foto.jpeg)
 <img src="foto.jpeg" alt="Mi Foto" width="200" style="border-radius: 50%;">
 
 ### Información Personal
